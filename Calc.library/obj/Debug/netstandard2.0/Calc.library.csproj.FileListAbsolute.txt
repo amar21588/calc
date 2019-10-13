@@ -1,9 +1,0 @@
-C:\Users\patil\source\repos\Calc\Calc.library\bin\Debug\netstandard2.0\Calc.library.deps.json
-C:\Users\patil\source\repos\Calc\Calc.library\bin\Debug\netstandard2.0\Calc.library.dll
-C:\Users\patil\source\repos\Calc\Calc.library\bin\Debug\netstandard2.0\Calc.library.pdb
-C:\Users\patil\source\repos\Calc\Calc.library\obj\Debug\netstandard2.0\Calc.library.csprojAssemblyReference.cache
-C:\Users\patil\source\repos\Calc\Calc.library\obj\Debug\netstandard2.0\Calc.library.csproj.CoreCompileInputs.cache
-C:\Users\patil\source\repos\Calc\Calc.library\obj\Debug\netstandard2.0\Calc.library.AssemblyInfoInputs.cache
-C:\Users\patil\source\repos\Calc\Calc.library\obj\Debug\netstandard2.0\Calc.library.AssemblyInfo.cs
-C:\Users\patil\source\repos\Calc\Calc.library\obj\Debug\netstandard2.0\Calc.library.dll
-C:\Users\patil\source\repos\Calc\Calc.library\obj\Debug\netstandard2.0\Calc.library.pdb
